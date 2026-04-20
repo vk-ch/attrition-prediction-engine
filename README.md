@@ -89,4 +89,4 @@ Source: [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-
 
 ---
 
-*Part of my People Analytics portfolio. See also: Pay Equity Analyzer, Workforce Planning Simulator.*
+*Part of my People Analytics portfolio.*
